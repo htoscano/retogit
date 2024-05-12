@@ -1,5 +1,5 @@
 public class claseGithub {
-    private String ejemplo1;
+    private String ejemploCambio;
     private int ejemplo2;
 
 }
